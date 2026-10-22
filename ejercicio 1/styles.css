@@ -1,18 +1,28 @@
 body {
-    background-color: #527AA3;
-    color: #333;
+  background-color: #527aa3;
+  color: #333;
 }
 .container {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .jumbotron {
-    background-color: #527AA3;
+  background-color: #527aa3;
 }
 .btn-primary {
-    background-color: #06243e;
-    border-color: #9aacbd;
+  background-color: #06243e;
+  border-color: #9aacbd;
 }
 .btn-primary:hover {
-    background-color: #5a9fe4;
-    border-color: #cfd0d0;
+  background-color: #5a9fe4;
+  border-color: #cfd0d0;
+}
+
+p {
+  color: #000000;
+}
+
+h1,
+h2,
+label {
+  color: #000000;
 }
